@@ -99,3 +99,4 @@ let outputLang = programming.languages.map(function (item, index) {
   
 });
 console.log(outputLang);
+//test12
